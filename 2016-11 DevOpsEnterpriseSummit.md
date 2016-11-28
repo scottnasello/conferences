@@ -1,9 +1,9 @@
 # Recommended Talks (For Columbia's Engineers):
  
-1. [Making the Middle Great Again](https://www.youtube.com/watch?v=zMsi5zQ9wp8)
-2. [Human Scale Systems](https://www.youtube.com/watch?v=0KuAN41liTY)
-3. [Time Theft: … Perfect Crime] (https://www.youtube.com/watch?v=-TGJePmaaas)
-4. [CD for DBs: Database Deployment Strategies] (https://www.youtube.com/watch?v=hLQAQlwY6-k) 
+1. [Making the Middle Great Again - Pauly Comtois](https://www.youtube.com/watch?v=zMsi5zQ9wp8)
+2. [Human Scale Systems - Mark Imbriaco](https://www.youtube.com/watch?v=0KuAN41liTY)
+3. [Time Theft: … Perfect Crime - Dominica DeGrandis] (https://www.youtube.com/watch?v=-TGJePmaaas)
+4. [CD for DBs: Database Deployment Strategies - Chris Fulton] (https://www.youtube.com/watch?v=hLQAQlwY6-k) 
                
 ## DevOps At Target: Year 3
 ### [Heather Mickman, Sr. Director Target Technology Services, Target] (https://twitter.com/hmickman)
@@ -22,26 +22,25 @@
     * Be BOLD: never settle for the status quo
     * Be ACCOUNTABLE: own your failures with as much gusto as your successes
  
-When Ops Swallows Dev
-·         https://www.youtube.com/watch?v=6afD-sQm03E
-·         Erica Morrison, Director, Software Development, CSG International
-·         Scott Prugh, Chief Architect & VP Software Development & Operations, CSG International
-·         Starting point for their journey “I’m in the Phoenix Project”
-o   Invisible work / Work in Multiple Systems
-o   Competing Priorities from across the company
-o   WIP/Overutilization
-o   Manual Configuration
-o   Technical Debt
-o   Brent
-o   Poor visibility into our specific changes
-·         Ops from a Development Perspective
-o   Ops is hard!
-o   Changes process and volumes can be daunting
-o   Change can be scary
-o   Application architecture is needed
-o   Enablement is key
-o   Support is truly 24x7
-o   Ops is forced to tolerate a lot of pain
+## [When Ops Swallows Dev] (https://www.youtube.com/watch?v=6afD-sQm03E)
+### Erica Morrison, Director, Software Development, CSG International
+### Scott Prugh, Chief Architect & VP Software Development & Operations, CSG International
+* Starting point for their journey “I’m in the Phoenix Project”
+    * Invisible work / Work in Multiple Systems
+    * Competing Priorities from across the company
+    * WIP/Overutilization
+    * Manual Configuration
+    * Technical Debt
+    * Brent
+    * Poor visibility into our specific changes
+* Ops from a Development Perspective
+    * Ops is hard!
+    * Changes process and volumes can be daunting
+    * Change can be scary
+    * Application architecture is needed
+    * Enablement is key
+    * Support is truly 24x7
+    * Ops is forced to tolerate a lot of pain
                
 DevOps in the Midst of an Airline Merger
 ·         https://www.youtube.com/watch?v=chudAbPxeWQ

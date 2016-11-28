@@ -1,14 +1,12 @@
-# Recommended Talks:
+# Recommended Talks (For Columbia's Engineers):
  
-1.      Making the Middle Great Again à  https://www.youtube.com/watch?v=zMsi5zQ9wp8
-2.      Human Scale Systems à https://www.youtube.com/watch?v=0KuAN41liTY
-3.      Time Theft: … Perfect Crime à https://www.youtube.com/watch?v=-TGJePmaaas
-4.      CD for DBs: Database Deployment Strategies à https://www.youtube.com/watch?v=hLQAQlwY6-k
- 
-============================================================================================================================
+1. [Making the Middle Great Again](https://www.youtube.com/watch?v=zMsi5zQ9wp8)
+2. [Human Scale Systems](https://www.youtube.com/watch?v=0KuAN41liTY)
+3. [Time Theft: … Perfect Crime] (https://www.youtube.com/watch?v=-TGJePmaaas)
+4. [CD for DBs: Database Deployment Strategies] (https://www.youtube.com/watch?v=hLQAQlwY6-k) 
                
 ## DevOps At Target: Year 3
-* Heather Mickman, Sr. Director Target Technology Services, Target -> https://twitter.com/hmickman
+### Heather Mickman, Sr. Director Target Technology Services, Target -> https://twitter.com/hmickman
 * Great Talk, doesn’t appear that the video is available at this time
 * Target allows 10% maker time
 * “I don’t show up to be average; She Shows up to be awesome”
@@ -18,11 +16,11 @@
 * “6 TB logs per day; ELK stack”
 * Lots of focus on micro services and refactoring legacy patterns
 * Her advice to other leaders
-    1. Be CURIOUS: never stop questioning, learn how to do something better
-    2. Empower CHANGE: set an example … do it
-    3. Inspire CULTURE: empower the team and inspire learning
-    4. Be BOLD: never settle for the status quo
-    5. Be ACCOUNTABLE: own your failures with as much gusto as your successes
+    * Be CURIOUS: never stop questioning, learn how to do something better
+    * Empower CHANGE: set an example … do it
+    * Inspire CULTURE: empower the team and inspire learning
+    * Be BOLD: never settle for the status quo
+    * Be ACCOUNTABLE: own your failures with as much gusto as your successes
  
 When Ops Swallows Dev
 ·         https://www.youtube.com/watch?v=6afD-sQm03E

@@ -42,94 +42,89 @@
     * Support is truly 24x7
     * Ops is forced to tolerate a lot of pain
                
-DevOps in the Midst of an Airline Merger
-·         https://www.youtube.com/watch?v=chudAbPxeWQ
-·         Ben Chan, Director Shared Services, American Airlines
-·         Susanna Brown, Managing Director Operations Technology, American Airlines
-·         Enormous effort to merge American and US Air.  Used DevOps a cultural catalyst during merger
-·         Delivering infrastructure to teams used to take 2 weeks. Now it takes minutes.
-·         Trello, Slack, & Video Conferencing for collaboration
+## [DevOps in the Midst of an Airline Merger] (https://www.youtube.com/watch?v=chudAbPxeWQ)
+### Ben Chan, Director Shared Services, American Airlines
+### Susanna Brown, Managing Director Operations Technology, American Airlines
+* Enormous effort to merge American and US Air.  Used DevOps a cultural catalyst during merger
+* Delivering infrastructure to teams used to take 2 weeks. Now it takes minutes.
+* Trello, Slack, & Video Conferencing for collaboration
  
-Doubling Down on ChatOps in the Enterprise at HPE
-·         Daniel Perez, Build & Deploy Architect, HPE
+## Doubling Down on ChatOps in the Enterprise at HPE
+### Daniel Perez, Build & Deploy Architect, HPE
  
-DevOps at Verizon
-·         Ross Clanton, Fellow, DevOps, Verizon
-·         Chivas Nambiar, Director, DevOps and Public Cloud Platform Engineering, Verizon
+## DevOps at Verizon
+### Ross Clanton, Fellow, DevOps, Verizon
+### Chivas Nambiar, Director, DevOps and Public Cloud Platform Engineering, Verizon
  
-CD for DBs: Database Deployment Strategies
-·         https://www.youtube.com/watch?v=hLQAQlwY6-k
-·         Chris Fulton, Global Technical Account Manager, Electric Cloud
-·         Starts with where we’ve come from
-o   Manual tweaks to Prod
-o   Tweaks to Prod using a script
-o   Scripts used in lower environments
-·         Talk covers a completely automated deployment
-·         Talks about why databases are complicated to deploy
-o   More than one application
-o   Multiple databases per server
-o   Critical data
-o   Schema Changes
-·         How do we test databases? Before/During/After
-·         What do we do if test fails?  Rollback? Who Decides?
-o   At what point did you fail?
-o   Are schema/code changes fully deployed (or partially)?
-o   Are data changes fully deployed?
-o   Did data change while deploy going on?
-o   Is data now corrupt?
-·         Automation
-o   Who owns it
-o   What tool to use?
-o   Rolling deployments?
+## [CD for DBs: Database Deployment Strategies] (https://www.youtube.com/watch?v=hLQAQlwY6-k)
+### Chris Fulton, Global Technical Account Manager, Electric Cloud
+* Starts with where we’ve come from
+* Manual tweaks to Prod
+* Tweaks to Prod using a script
+* Scripts used in lower environments
+    * Talk covers a completely automated deployment
+    * Talks about why databases are complicated to deploy
+* More than one application
+* Multiple databases per server
+* Critical data
+* Schema Changes
+    * How do we test databases? Before/During/After
+    * What do we do if test fails?  Rollback? Who Decides?
+* At what point did you fail?
+* Are schema/code changes fully deployed (or partially)?
+* Are data changes fully deployed?
+* Did data change while deploy going on?
+* Is data now corrupt?
+    * Automation
+* Who owns it
+* What tool to use?
+* Rolling deployments?
  
-Episode 3: The Quest for Accelerated Delivery
-·         https://www.youtube.com/watch?v=oa84nHgF0GU
-·         Jim Grafmeyer, Systems Architect, Nationwide Insurance
-·         Cindy Payne, Director, IT Architecture, Nationwide Insurance
-·         Carmen DeArdo, Director, Build Capability, Nationwide Insurance
+## [Episode 3: The Quest for Accelerated Delivery] (https://www.youtube.com/watch?v=oa84nHgF0GU)
+### Jim Grafmeyer, Systems Architect, Nationwide Insurance
+### Cindy Payne, Director, IT Architecture, Nationwide Insurance
+### Carmen DeArdo, Director, Build Capability, Nationwide Insurance
  
-DevOps at Capital One: Focusing on Pipeline and Measurement
-https://www.youtube.com/watch?v=6Q0mtVnnthQ
-Tapabrata “Topo” Pal, Director, Engineering Fellow, Capital One
-Capital One built their own dashboard (Hygieia) and then open sourced it
-DevOps at Capital One: “Deliver High Quality Working Software Faster”
-No Security Flaws
-No Legal Flaws
-Minimum Defects
-All levels of testing done end to end
-Code Reviewed and source controlled
-All dependencies satisified
+## [DevOps at Capital One: Focusing on Pipeline and Measurement] (https://www.youtube.com/watch?v=6Q0mtVnnthQ)
+### Tapabrata “Topo” Pal, Director, Engineering Fellow, Capital One
+* Capital One built their own dashboard (Hygieia) and then open sourced it
+* DevOps at Capital One: “Deliver High Quality Working Software Faster”
+* No Security Flaws
+* No Legal Flaws
+* Minimum Defects
+* All levels of testing done end to end
+* Code Reviewed and source controlled
+* All dependencies satisified
                
-Technology Transformation: How Team Values Boost Customer Value
-·         https://www.youtube.com/watch?v=5fruVoIxArk
-·         Opal Perry, Divisional CIO, Claims, Allstate Insurance
-·         “How do we help everyone in the org get the skills/inspiration to come on the #devops journey with us”
-·         “Apply the same principles we want everyone to practice into our own leadership and change implementation”
-·         “In leadership, our job is to create the courage for people to do the right thing”
-·         Allstate values
-o   Each Other
-o   Freedom of Action
-o   Agility with Purpose
-o   Being Change Catalysts
-o   Leaving Things Better Than We Found Them
+## [Technology Transformation: How Team Values Boost Customer Value] (https://www.youtube.com/watch?v=5fruVoIxArk)
+### Opal Perry, Divisional CIO, Claims, Allstate Insurance
+* “How do we help everyone in the org get the skills/inspiration to come on the #devops journey with us”
+* “Apply the same principles we want everyone to practice into our own leadership and change implementation”
+* “In leadership, our job is to create the courage for people to do the right thing”
+* Allstate values
+    * Each Other
+    * Freedom of Action
+    * Agility with Purpose
+    * Being Change Catalysts
+    * Leaving Things Better Than We Found Them
  
-Starbucks Technology Transformation
-·         Courtney Kissler, VP, Retail Technology, Starbucks
-·         Point of Sale as an innovation accelerator
-·         “Just because something is hard, don't avoid doing it... do it more”
-·         DevOps strategy at Starbucks à https://pbs.twimg.com/media/CwwirzpUQAAnMK5.jpg
-·         DevOps Approach à https://pbs.twimg.com/media/CwwjZZ4UcAAw0qT.jpg
-·         Team structure is similar but optimized for context à https://pbs.twimg.com/media/CwwkihbUoAAK9Xb.jpg
-·         Leadership Expectations
-o   Creating a culture of warmth and belonging
-o   Acting with courage, challenging the status quo and finding new ways to grow
-o   Being present, connecting with transparency, dignity, and respect
-o   Delivering our very best in all we do, holding ourselves accountable for results
-o   Articulating the “why” behind every change
-o   Honoring and extracting reality
-o   Becoming students – Go & See (not Go & Tell)
-o   Becoming coaches – creating a learning culture
-o   Leading by example – actions matching words
+## Starbucks Technology Transformation
+### Courtney Kissler, VP, Retail Technology, Starbucks
+* Point of Sale as an innovation accelerator
+* “Just because something is hard, don't avoid doing it... do it more”
+* [DevOps strategy at Starbucks] (https://pbs.twimg.com/media/CwwirzpUQAAnMK5.jpg)
+* [DevOps Approach] (https://pbs.twimg.com/media/CwwjZZ4UcAAw0qT.jpg)
+* [Team structure is similar but optimized for context] (https://pbs.twimg.com/media/CwwkihbUoAAK9Xb.jpg)
+* Leadership Expectations
+    * Creating a culture of warmth and belonging
+    * Acting with courage, challenging the status quo and finding new ways to grow
+    * Being present, connecting with transparency, dignity, and respect
+    * Delivering our very best in all we do, holding ourselves accountable for results
+    * Articulating the “why” behind every change
+    * Honoring and extracting reality
+    * Becoming students – Go & See (not Go & Tell)
+    * Becoming coaches – creating a learning culture
+    * Leading by example – actions matching words
                
 The Talent You Need is Already Inside Your Company
 ·         https://www.youtube.com/watch?v=xQ6r-b_Tm5g

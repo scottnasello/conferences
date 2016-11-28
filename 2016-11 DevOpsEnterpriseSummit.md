@@ -6,7 +6,7 @@
 4. [CD for DBs: Database Deployment Strategies] (https://www.youtube.com/watch?v=hLQAQlwY6-k) 
                
 ## DevOps At Target: Year 3
-### Heather Mickman, Sr. Director Target Technology Services, Target -> https://twitter.com/hmickman
+### [Heather Mickman, Sr. Director Target Technology Services, Target] (https://twitter.com/hmickman)
 * Great Talk, doesn’t appear that the video is available at this time
 * Target allows 10% maker time
 * “I don’t show up to be average; She Shows up to be awesome”

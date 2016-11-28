@@ -126,40 +126,36 @@
     * Becoming coaches – creating a learning culture
     * Leading by example – actions matching words
                
-The Talent You Need is Already Inside Your Company
-·         https://www.youtube.com/watch?v=xQ6r-b_Tm5g
-·         Damon Edwards, Co-Founder, SimplifyOps, Inc
-·         Grow the talent, Retain the talent, Happy Talent attracts more talent
-·         Put in place design patterns that remove friction and help teams
+## [The Talent You Need is Already Inside Your Company] (https://www.youtube.com/watch?v=xQ6r-b_Tm5g)
+### Damon Edwards, Co-Founder, SimplifyOps, Inc
+* Grow the talent, Retain the talent, Happy Talent attracts more talent
+* Put in place design patterns that remove friction and help teams
  
-Human Scale Systems
-·         https://www.youtube.com/watch?v=0KuAN41liTY
-·         http://www.slideshare.net/MarkImbriaco/what-i-learned-leading-ops-at-github-heroku-digitalocean-and-more
-·         Mark Imbriaco, Technical Operations Leadership, GitHub, Heroku, 37signals
-·         ChatOps... every team should have a room... and it should be integrated with your platform
-·         Make Tiny Decisions à https://pbs.twimg.com/media/Cwx__lyUUAA4N3u.jpg
-·         Practices Makes Perfect à https://pbs.twimg.com/media/CwyBGOvVQAEdnF7.jpg
-·         Empathy is a core value
-·         Collaborate by Default
-·         Share results publicly
+## [Human Scale Systems] (https://www.youtube.com/watch?v=0KuAN41liTY)
+### Mark Imbriaco, Technical Operations Leadership, GitHub, Heroku, 37signals
+* [Slideshare] (http://www.slideshare.net/MarkImbriaco/what-i-learned-leading-ops-at-github-heroku-digitalocean-and-more)
+* ChatOps... every team should have a room... and it should be integrated with your platform
+* [Make Tiny Decisions] (https://pbs.twimg.com/media/Cwx__lyUUAA4N3u.jpg)
+* [Practices Makes Perfect] (https://pbs.twimg.com/media/CwyBGOvVQAEdnF7.jpg)
+* Empathy is a core value
+* Collaborate by Default
+* Share results publicly
                
-The Mainframe DevOps Team Saves The Day At Walmart
-·         Rich Jackson, Principal Systems Engineer, Walmart Technology
-·         Rosalind Radcliffe, Distinguished Engineer, Chief Architect for DevOps, IBM
-·         We knew we had to make it as easy as 1 config chg, b/c we knew those devs wouldn't want to use what we built
-·         They replicated API of cache appliance, worked nights/weekends to build it on mainframe stack, to mk life easier for devs
-·         First App: Still in production, solved Dev’s issue, ~21 Billion requests without disruption
+## The Mainframe DevOps Team Saves The Day At Walmart
+* Rich Jackson, Principal Systems Engineer, Walmart Technology
+* Rosalind Radcliffe, Distinguished Engineer, Chief Architect for DevOps, IBM
+* We knew we had to make it as easy as 1 config chg, b/c we knew those devs wouldn't want to use what we built
+* They replicated API of cache appliance, worked nights/weekends to build it on mainframe stack, to mk life easier for devs
+* First App: Still in production, solved Dev’s issue, ~21 Billion requests without disruption
                
-Making the Middle Great Again
-·         https://www.youtube.com/watch?v=zMsi5zQ9wp8
-·         Pauly Comtois, VP DevOps, Hearst
+## [Making the Middle Great Again] (https://www.youtube.com/watch?v=zMsi5zQ9wp8)
+### Pauly Comtois, VP DevOps, Hearst
  
-Time Theft: How Hidden and Unplanned Work Commit the Perfect Crime
-·         https://www.youtube.com/watch?v=-TGJePmaaas
-·         Dominica DeGrandis, Director, Training & Coaching, LeanKit
-·         5 Thieves
-o   Unplanned Work
-o   Neglected Work
-o   Unknown Dependencies
-o   Conflicting Priorities
-o   Too Much WIP
+## [Time Theft: How Hidden and Unplanned Work Commit the Perfect Crime] (https://www.youtube.com/watch?v=-TGJePmaaas)
+### Dominica DeGrandis, Director, Training & Coaching, LeanKit
+* 5 Thieves
+    * Unplanned Work
+    * Neglected Work
+    * Unknown Dependencies
+    * Conflicting Priorities
+    * Too Much WIP
